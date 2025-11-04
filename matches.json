@@ -1,22 +1,22 @@
 [
   [
     {
-      "strTimestamp": "2025-11-02T17:30:00",
+      "strTimestamp": "2025-10-18T14:15:00",
       "strHomeTeam": "Barcelona",
-      "strAwayTeam": "Elche",
+      "strAwayTeam": "Girona",
       "strLeague": "Spanish La Liga",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
       "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png"
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png"
     },
     {
-      "strTimestamp": "2025-11-02T20:00:00",
-      "strHomeTeam": "Real Betis",
-      "strAwayTeam": "Mallorca",
+      "strTimestamp": "2025-10-18T16:30:00",
+      "strHomeTeam": "Villarreal",
+      "strAwayTeam": "Real Betis",
       "strLeague": "Spanish La Liga",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png"
+      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png"
     }
   ]
 ]
