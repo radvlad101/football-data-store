@@ -1,102 +1,122 @@
 [
   [
     {
-      "strTimestamp": "2025-11-02T16:30:00",
-      "strHomeTeam": "Manchester City",
-      "strAwayTeam": "Bournemouth",
+      "strTimestamp": "2025-10-18T16:30:00",
+      "strHomeTeam": "Fulham",
+      "strAwayTeam": "Arsenal",
       "strLeague": "English Premier League",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+      "intHomeScore": "",
+      "intAwayScore": ""
     },
     {
-      "strTimestamp": "2025-11-02T14:00:00",
-      "strHomeTeam": "West Ham United",
-      "strAwayTeam": "Newcastle United",
+      "strTimestamp": "2025-10-18T14:00:00",
+      "strHomeTeam": "Burnley",
+      "strAwayTeam": "Leeds United",
       "strLeague": "English Premier League",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
+      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+      "intHomeScore": "",
+      "intAwayScore": ""
     }
   ],
   [
     {
-      "strTimestamp": "2025-11-02T17:30:00",
+      "strTimestamp": "2025-10-18T14:15:00",
       "strHomeTeam": "Barcelona",
-      "strAwayTeam": "Elche",
+      "strAwayTeam": "Girona",
       "strLeague": "Spanish La Liga",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
       "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png"
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png",
+      "intHomeScore": "",
+      "intAwayScore": ""
     },
     {
-      "strTimestamp": "2025-11-02T13:00:00",
-      "strHomeTeam": "Levante",
-      "strAwayTeam": "Celta Vigo",
+      "strTimestamp": "2025-10-18T16:30:00",
+      "strHomeTeam": "Villarreal",
+      "strAwayTeam": "Real Betis",
       "strLeague": "Spanish La Liga",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png"
+      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
+      "intHomeScore": "",
+      "intAwayScore": ""
     }
   ],
   [
     {
-      "strTimestamp": "2025-11-02T14:30:00",
-      "strHomeTeam": "FC Köln",
+      "strTimestamp": "2025-10-18T16:30:00",
+      "strHomeTeam": "Bayern Munich",
+      "strAwayTeam": "Borussia Dortmund",
+      "strLeague": "German Bundesliga",
+      "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
+      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
+      "intHomeScore": "",
+      "intAwayScore": ""
+    },
+    {
+      "strTimestamp": "2025-10-18T13:30:00",
+      "strHomeTeam": "RB Leipzig",
       "strAwayTeam": "Hamburg",
       "strLeague": "German Bundesliga",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png"
-    },
-    {
-      "strTimestamp": "2025-11-02T16:30:00",
-      "strHomeTeam": "Wolfsburg",
-      "strAwayTeam": "Hoffenheim",
-      "strLeague": "German Bundesliga",
-      "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/07kp421599680274.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
+      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png",
+      "intHomeScore": "",
+      "intAwayScore": ""
     }
   ],
   [
     {
-      "strTimestamp": "2025-11-02T19:45:00",
-      "strHomeTeam": "AC Milan",
-      "strAwayTeam": "Roma",
+      "strTimestamp": "2025-10-18T18:45:00",
+      "strHomeTeam": "Roma",
+      "strAwayTeam": "Inter Milan",
       "strLeague": "Italian Serie A",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
-      "strAwayTeamBadge": "https://www.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+      "strHomeTeamBadge": "https://www.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
+      "intHomeScore": "",
+      "intAwayScore": ""
     },
     {
-      "strTimestamp": "2025-11-02T17:00:00",
-      "strHomeTeam": "Parma",
-      "strAwayTeam": "Bologna",
+      "strTimestamp": "2025-10-18T16:00:00",
+      "strHomeTeam": "Torino",
+      "strAwayTeam": "Napoli",
       "strLeague": "Italian Serie A",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png"
+      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
+      "intHomeScore": "",
+      "intAwayScore": ""
     }
   ],
   [
     {
-      "strTimestamp": "2025-11-02T16:30:00",
-      "strHomeTeam": "Krasnodar",
-      "strAwayTeam": "Spartak Moscow",
+      "strTimestamp": "2025-10-18T16:45:00",
+      "strHomeTeam": "Lokomotiv Moscow",
+      "strAwayTeam": "CSKA Moscow",
       "strLeague": "Russian Football Premier League",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/d4yp7g1690178551.png",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/srxryu1473452272.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/zpj2el1754674286.png"
+      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/tuyrur1473452310.png",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/1hf19s1681319986.png",
+      "intHomeScore": "",
+      "intAwayScore": ""
     },
     {
-      "strTimestamp": "2025-11-02T09:00:00",
-      "strHomeTeam": "Orenburg",
-      "strAwayTeam": "Sochi",
+      "strTimestamp": "2025-10-18T14:30:00",
+      "strHomeTeam": "Dynamo Makhachkala",
+      "strAwayTeam": "Krasnodar",
       "strLeague": "Russian Football Premier League",
       "strLeagueBadge": "https://r2.thesportsdb.com/images/media/league/badge/d4yp7g1690178551.png",
-      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/9wa10h1754674044.png",
-      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/l5056o1565093226.png"
+      "strHomeTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/alzjuc1656588520.png",
+      "strAwayTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/srxryu1473452272.png",
+      "intHomeScore": "",
+      "intAwayScore": ""
     }
   ]
 ]
